@@ -117,6 +117,15 @@
                 "name": "Lab3_Measurement",
                 "resourceId": "/Lab3_Measurement"
             }
+        },
+        {
+            "name": "Lab4_Speedup",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab4_Speedup",
+                "resourceId": "/Lab4_Speedup"
+            }
         }
     ]
 }
