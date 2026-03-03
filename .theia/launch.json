@@ -126,6 +126,15 @@
                 "name": "Lab4_Speedup",
                 "resourceId": "/Lab4_Speedup"
             }
+        },
+        {
+            "name": "Lab4_Different_Data_Block",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab4_Different_Data_Block",
+                "resourceId": "/Lab4_Different_Data_Block"
+            }
         }
     ]
 }
