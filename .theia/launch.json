@@ -1,0 +1,122 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Lab1_HelloWorld",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab1_HelloWorld",
+                "resourceId": "/Lab1_HelloWorld"
+            }
+        },
+        {
+            "name": "Lab1BlinkLed1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab1BlinkLed1",
+                "resourceId": "/Lab1BlinkLed1"
+            }
+        },
+        {
+            "name": "Lab1_AccesMCUInfo",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab1_AccesMCUInfo",
+                "resourceId": "/Lab1_AccesMCUInfo"
+            }
+        },
+        {
+            "name": "Lab2_Driver_Lib",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab2_Driver_Lib",
+                "resourceId": "/Lab2_Driver_Lib"
+            }
+        },
+        {
+            "name": "Lab2_Direct_Port_Access",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab2_Direct_Port_Access",
+                "resourceId": "/Lab2_Direct_Port_Access"
+            }
+        },
+        {
+            "name": "Lab2_Bit_Band_Access",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab2_Bit_Band_Access",
+                "resourceId": "/Lab2_Bit_Band_Access"
+            }
+        },
+        {
+            "name": "Lab2_Two_leds",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab2_Two_leds",
+                "resourceId": "/Lab2_Two_leds"
+            }
+        },
+        {
+            "name": "Lab2_Button_leds",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab2_Button_leds",
+                "resourceId": "/Lab2_Button_leds"
+            }
+        },
+        {
+            "name": "Lab3_Simple_Checksum",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab3_Simple_Checksum",
+                "resourceId": "/Lab3_Simple_Checksum"
+            }
+        },
+        {
+            "name": "Lab3_Speedup",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab3_Speedup",
+                "resourceId": "/Lab3_Speedup"
+            }
+        },
+        {
+            "name": "Lab3_Simulate_Data_Corruption",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab3_Simulate_Data_Corruption",
+                "resourceId": "/Lab3_Simulate_Data_Corruption"
+            }
+        },
+        {
+            "name": "Lab3_Control",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab3_Control",
+                "resourceId": "/Lab3_Control"
+            }
+        },
+        {
+            "name": "Lab3_Measurement",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab3_Measurement",
+                "resourceId": "/Lab3_Measurement"
+            }
+        }
+    ]
+}

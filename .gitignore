@@ -1,0 +1,16 @@
+# CCS Build Folders
+Debug/
+Release/
+targetConfigs/
+
+# Output files
+*.out
+*.obj
+*.d
+*.log
+
+# macOS
+.DS_Store
+
+# CCS metadata
+.metadata/
