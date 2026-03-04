@@ -144,6 +144,15 @@
                 "name": "Lab4_String_Modifications",
                 "resourceId": "/Lab4_String_Modifications"
             }
+        },
+        {
+            "name": "Lab4_Program_Flash_Memory",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab4_Program_Flash_Memory",
+                "resourceId": "/Lab4_Program_Flash_Memory"
+            }
         }
     ]
 }
