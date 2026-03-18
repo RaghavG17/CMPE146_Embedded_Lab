@@ -162,6 +162,15 @@
                 "name": "Lab4_Nonvolatile_Power",
                 "resourceId": "/Lab4_Nonvolatile_Power"
             }
+        },
+        {
+            "name": "Lab5_RC_Oscillator",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab5_RC_Oscillator",
+                "resourceId": "/Lab5_RC_Oscillator"
+            }
         }
     ]
 }
