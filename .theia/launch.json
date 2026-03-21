@@ -171,6 +171,15 @@
                 "name": "Lab5_RC_Oscillator",
                 "resourceId": "/Lab5_RC_Oscillator"
             }
+        },
+        {
+            "name": "Lab5_Frequency_Measurement",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab5_Frequency_Measurement",
+                "resourceId": "/Lab5_Frequency_Measurement"
+            }
         }
     ]
 }
