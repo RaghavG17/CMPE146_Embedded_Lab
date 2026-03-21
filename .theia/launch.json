@@ -180,6 +180,15 @@
                 "name": "Lab5_Frequency_Measurement",
                 "resourceId": "/Lab5_Frequency_Measurement"
             }
+        },
+        {
+            "name": "Lab5_Led_Control",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab5_Led_Control",
+                "resourceId": "/Lab5_Led_Control"
+            }
         }
     ]
 }
