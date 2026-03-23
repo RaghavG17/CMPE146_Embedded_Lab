@@ -182,6 +182,15 @@
             }
         },
         {
+            "name": "Lab5_Other_Oscillators",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab5_Other_Oscillators",
+                "resourceId": "/Lab5_Other_Oscillators"
+            }
+        },
+        {
             "name": "Lab5_Led_Control",
             "type": "ccs-debug",
             "request": "launch",
